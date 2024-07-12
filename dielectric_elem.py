@@ -1,4 +1,4 @@
-#Column 1-14 correspond to SiO2, B2O3, Li2O, Na2O, K2O, MgO, CaO, SrO, BaO, ZnO, TiO2, Al2O3, Temp, and log f
+#Input column 1-39 correspond to p=2, p=3, p=5, p=7, Atomic number, Atomic number_d, Atomic volume, Atomic volume_d, Atomic weight, Atomic weight_d, Boiling point, Boiling point_d, Covalent radius, Covalent radius_d, Density, Density_d, Dipole polarizability, Dipole polarizability_d, Heat of formation, Heat of formation_d, Melting point, Melting point_d, VDW radius, VDW radius_d, Period, Period_d, Group, Group_d, 1st ionization energy, 1st ionization energy_d, 2nd ionization energy, 2nd ionization energy_d, 3rd ionization energy, 3rd ionization energy_d, s/total, p/total, Ionicity, Temp, and logf
 import numpy as np
 import pickle
 from sklearn import preprocessing
