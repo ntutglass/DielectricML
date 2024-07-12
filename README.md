@@ -7,7 +7,7 @@ Here, you will first find four pickle files for Scikit-Learn:
 4. "loss_elem.pkl", a Gaussian process regression model trained by the element physical and chemical properties descriptors for temperature/frequency-dependent dielectric loss prediction.
 
 Second, two Python scripts are used for data pre-processing and executing the trained model.
-1. "dielectric_chem.py" is for the model using the chemical composition descriptors (pickle files 1 and 2).
-2. "dielectric_elem.py" is for the model using the element physical and chemical properties descriptors (pickle files 3 and 4).  
+1. "dielectric_chem.py" is for the models using the chemical composition descriptors (pickle files 1 and 2).
+2. "dielectric_elem.py" is for the models using the element physical and chemical properties descriptors (pickle files 3 and 4).  
 
 If you have any questions, please contact Yueh-Ting (Tim) Shih at ytshih@mail.ntut.edu.tw.
